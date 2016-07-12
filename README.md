@@ -5,6 +5,6 @@
 * Step by step Tutorial to create a [vuejs app with authentication and an API requests](https://auth0.com/blog/2015/11/13/build-an-app-with-vuejs/) which provides the final product as an [example](https://github.com/auth0-blog/vue-jwt-authentication).
 * A [single page app example](https://github.com/skyronic/vue-spa "Single page app in VueJS") in VueJs by skyronic ([Demo](http://crudkit.com/vue-spa/#!/)).
 * A fiddle by Jack Yang showing [2-way markdown-to-html editor](https://jsfiddle.net/ygjack/2kx696aa/).
-* [Routes With vue-router](http://codepen.io/michaeljcalkins/pen/BNqREZ?editors=1010) by Michael Calkins
+* [Routes with vue-router](http://codepen.io/michaeljcalkins/pen/BNqREZ?editors=1010) by Michael Calkins
 
 ### misc: [suggestions, issues](https://github.com/vuejs-examples/start/issues), [license](https://github.com/FriendsOfSilverStripe/seo-suite/blob/master/license.md)
