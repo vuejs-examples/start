@@ -7,6 +7,7 @@
 * Jack Hu' has written his block in a varity of JavaScript frameworks, including [vuejs](https://github.com/jackhutu/jackblog-vue "Single page app in VueJS") in VueJs.<br>Uses vuex, vue-resource, vue-router, vue-strap, vue-validator and vue-toastr  ([Demo](http://vue.jackhu.top/)).
 * Step by step Tutorial to create a [vuejs app with authentication and an API requests](https://auth0.com/blog/2015/11/13/build-an-app-with-vuejs/) which provides the final product as an [example](https://github.com/auth0-blog/vue-jwt-authentication).
 * A [single page app example](https://github.com/skyronic/vue-spa "Single page app in VueJS") in VueJs by skyronic ([Demo](http://crudkit.com/vue-spa/#!/)).
+* [Sudoku in VueJS](https://github.com/andreynering/vuejs-sudoku "Sudoku in VueJS") by andreynering ([Demo](https://github.com/andreynering/vuejs-sudoku)).
 
 ### partical examples:
 
