@@ -23,5 +23,6 @@
 * A fiddle by Jack Yang showing [2-way markdown-to-html editor](https://jsfiddle.net/ygjack/2kx696aa/).
 * [Routes with vue-router](http://codepen.io/michaeljcalkins/pen/BNqREZ?editors=1010) by Michael Calkins
 * [toggle example in VueJS](http://codepen.io/notoriousb1t/pen/BNPLRo/) by Christopher Wallis
- 
+* [autosizing textarea](https://jsfiddle.net/Lb3yqdso/)
+
 ### misc: [suggestions, issues](https://github.com/vuejs-examples/start/issues), [license](https://github.com/FriendsOfSilverStripe/seo-suite/blob/master/license.md)
