@@ -12,6 +12,7 @@
 * Jack Hu' has written his blog in a varity of JavaScript frameworks, including [vuejs](https://github.com/jackhutu/jackblog-vue "Blog app in VueJS 1.x") in VueJs.<br>Uses vuex, vue-resource, vue-router, vue-strap, vue-validator and vue-toastr  ([Demo](http://vue.jackhu.top/)).
 * A [single page app example](https://github.com/skyronic/vue-spa "Single page app in VueJS") in VueJs by skyronic ([Demo](http://crudkit.com/vue-spa/#!/)).
 * Step by step Tutorial to create a [vuejs app with authentication and an API requests](https://auth0.com/blog/2015/11/13/build-an-app-with-vuejs/) which provides the final product as an [example](https://github.com/auth0-blog/vue-jwt-authentication).
+* [VueJS CRUD example](https://codepen.io/-a/details/amOYGp) by -a
 
 #### VueJS 0.x
 
