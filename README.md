@@ -13,6 +13,7 @@
 * A [single page app example](https://github.com/skyronic/vue-spa "Single page app in VueJS") in VueJs by skyronic ([Demo](http://crudkit.com/vue-spa/#!/)).
 * Step by step tutorial to create a [vuejs app with authentication and an API requests](https://auth0.com/blog/2015/11/13/build-an-app-with-vuejs/) with the [finished app as an example](https://github.com/auth0-blog/vue-jwt-authentication).
 * Litte tutorial to build a [Gallery-app in Quasar (VueJS based framework)](http://quasar-framework.org/components/image-gallery.html). Requires to go through the "get started" section first.
+* [online shop example](https://jayway.github.io/vue-js-workshop/) by jayway.
 
 ### Partical Examples:
 
